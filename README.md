@@ -1,33 +1,51 @@
-# Aternos with Exaroton theme
-### Exaroton theme in Aternos
-A simple Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle manager.
-Features
+# Aternos with Exaroton Theme
 
-    Exaroton on to Aternos UI
-    Easy install via Stylus
+## Overview
 
-Requirements
+Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle manager.
 
-    Stylus:
-        https://github.com/openstyles/stylus/#readme
+---
 
-Install
+## Features
 
-    Install Stylus (link above).
-    Download or copy the theme
-    Paste the theme CSS into aternos.
-    Save and enable the style. You may need to Reload Aternos.
+- Exaroton styling applied to Aternos UI
+- Easy installation via Stylus
 
-Browser support
+---
 
-    Tested on Firefox.
-    Should work in other browsers that support Stylus (Chrome, Edge, Brave, etc.). If you encounter issues on a different browser, report them below — fixes may take longer for untested browsers like the ones above.
+## Requirements
 
-Reporting issues
+| Tool | Link |
+|------|------|
+| Stylus | https://github.com/openstyles/stylus/#readme |
 
-Open an issue in this repository with:
+---
 
-    Browser and version
-    Stylus version
-    Steps to reproduce
-    Screenshots (if helpful)
+## Installation
+
+1. Install Stylus using the link above
+2. Download or copy the theme CSS
+3. Paste the theme CSS into Aternos
+4. Save and enable the style (you may need to reload Aternos)
+
+---
+
+## Browser Support
+
+| Browser | Status |
+|---------|--------|
+| Firefox | ✅ Tested & working |
+| Chrome, Edge, Brave, etc. | ⚠️ Should work (untested) |
+
+Note: If you encounter issues on an untested browser, please report them — fixes may take longer for unsupported browsers.
+
+---
+
+## Reporting Issues
+
+When opening an issue, please include:
+
+- Browser name and version
+- Stylus version
+- Steps to reproduce the issue
+- Screenshots (if applicable)

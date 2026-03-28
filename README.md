@@ -37,8 +37,8 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 
 | Browser | Status |
 |---------|--------|
-| Firefox | ✅ Tested & working |
-| Chrome, Edge, Brave, etc. | ⚠️ Should work (untested) |
+| Firefox Based | ✅ Tested & working on Librewolf |
+| Chromium Based| ✅ Tested & working on Brave     |
 
 Note: If you encounter issues on an untested browser, please report them — fixes may take longer for unsupported browsers.
 

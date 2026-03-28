@@ -22,7 +22,7 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 | Tool | Link |
 |------|------|
 | Stylus | https://github.com/openstyles/stylus/#readme |
-
+*note this project is currenly made in the mozila format. Stylus will convert that to the relevant format on other platforms.
 ---
 
 ## Installation

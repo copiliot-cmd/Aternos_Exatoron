@@ -31,10 +31,10 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 2. Download or copy the theme from Github or Userstyles.org (https://userstyles.world/style/27289/aternos-exatoron-theme)
 3. Save and enable the style (you may need to reload Aternos)
 4. Download an ad‑block script (requires uBlock Origin and a userscipt manager like - [Tampermonkey](https://www.tampermonkey.net/)
+
 Scripts:
 - [Gist](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a)
-- [Greasy Fork](https://greasyfork.org/en/scripts/521704-working-2025-disable-)
-aternos-anti-adblock
+- [Greasy Fork](https://greasyfork.org/en/scripts/521704-working-2025-disable-aternos-anti-adblock)
 ---
 
 ## Browser Support

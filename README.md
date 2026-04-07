@@ -17,17 +17,10 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 
 ---
 
-## Requirements
-
-| Tool | Link |
-|------|------|
-| Stylus | https://github.com/openstyles/stylus/#readme |
-*note this project is currenly made in the mozila format. Stylus will convert that to the relevant format on other platforms.
----
 
 ## Installation
 
-1. Install Stylus using the link above
+1. Install [Stylus](https://github.com/openstyles/stylus/)
 2. Download or copy the theme from Github or Userstyles.org (https://userstyles.world/style/27289/aternos-exatoron-theme)
 3. Save and enable the style (you may need to reload Aternos)
 4. Download an ad‑block script (requires [UBlockOrigin](https://ublockorigin.com/) and a userscript manager like - [Tampermonkey](https://www.tampermonkey.net/) )

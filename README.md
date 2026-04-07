@@ -30,7 +30,7 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 1. Install Stylus using the link above
 2. Download or copy the theme from Github or Userstyles.org (https://userstyles.world/style/27289/aternos-exatoron-theme)
 3. Save and enable the style (you may need to reload Aternos)
-4. Download an ad‑block script (requires uBlock Origin and a userscipt manager like - [Tampermonkey](https://www.tampermonkey.net/)
+4. Download an ad‑block script (requires [UBlockOrigin](https://ublockorigin.com/) and a userscript manager like - [Tampermonkey](https://www.tampermonkey.net/)
 
 Scripts:
 - [Gist](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a)

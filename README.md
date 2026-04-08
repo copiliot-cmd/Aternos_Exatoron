@@ -14,6 +14,10 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 
 - Exaroton styling applied to Aternos UI
 - Easy installation via Stylus
+- Supports:
+- - https://aternos.org
+  - https://support.aternos.org/
+  - https://aternos.gmbh
 
 ---
 
@@ -25,7 +29,7 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 3. Save and enable the style (you may need to reload Aternos)
 4. Download an ad‑block script (requires [UBlockOrigin](https://ublockorigin.com/) and a userscript manager like - [Tampermonkey](https://www.tampermonkey.net/) )
 
-Scripts:
+Scripts (use 1 or both):
 - [Gist](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a)
 - [Greasy Fork](https://greasyfork.org/en/scripts/521704-working-2025-disable-aternos-anti-adblock)
 ---

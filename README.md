@@ -15,7 +15,7 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 - Exaroton styling applied to Aternos UI
 - Easy installation via Stylus
 - Supports:
-- - https://aternos.org
+  - https://aternos.org
   - https://support.aternos.org/
   - https://aternos.gmbh
 

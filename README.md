@@ -25,7 +25,7 @@ Exaroton-inspired theme for Aternos, built for use with the Stylus userstyle man
 ## Installation
 
 1. Install [Stylus](https://github.com/openstyles/stylus/)
-2. Download or copy the theme from Github or Userstyles.org (https://userstyles.world/style/27289/aternos-exatoron-theme)
+2. Download or copy the theme from Github or Userstyles.org (https://userstyles.world/style/27289/aternos-exaroton-theme)
 3. Save and enable the style (you may need to reload Aternos)
 4. Download an ad‑block script (requires [UBlockOrigin](https://ublockorigin.com/) and a userscript manager like - [Tampermonkey](https://www.tampermonkey.net/) )
 

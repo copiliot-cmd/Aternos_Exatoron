@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         Aternos Exatoron Theme
-@version      20260408.12.39
+@version      20260411.18.14
 @namespace    github.com/copiliot-cmd/Aternos_Exatoron/edit/main/exatoronstyle.css
 @description  Clean & modern U.I for Aternos inspired by Exatoron
 @author       copiliot-cmd/ausansdev
@@ -96,7 +96,13 @@ body {
 	padding: 0 16px;
 	z-index: 1001;
 }
-
+.exaroton-header-leaderboard,
+.new.boost-cta-box,
+.help-center-articles,
+.server-tutorials,
+.center,
+.navigation-list > a.item > .navigation-item-label > .new-tag,
+.hytale-notification,
 .header-exaroton-link-columns,
 .sidebar,
 .header-link-exaroton,
@@ -232,26 +238,26 @@ body {
 	height: 100%;
 }
 .team-member-text-social a {
-    color: #17ab17;
-    font-size: 14px
+	color: #17ab17;
+	font-size: 14px
 }
 .share-icon {
-    display: block;
-    font-size: 32px;
-    color: #17ab17;
-    margin: 0 20px 10px;
+	display: block;
+	font-size: 32px;
+	color: #17ab17;
+	margin: 0 20px 10px;
 }
 game-tag {
-  background: var(--border-color);
-  font-size: .85rem;
-  padding: 4px 8px;
-  border-radius: var(--border-radius);
-  color: #fbfbfb;
-  display: flex;
-  gap: 6px;
-  align-items: center;
-  width: fit-content;
-  transition: background .2s ease;
+	background: var(--border-color);
+	font-size: .85rem;
+	padding: 4px 8px;
+	border-radius: var(--border-radius);
+	color: #fbfbfb;
+	display: flex;
+	gap: 6px;
+	align-items: center;
+	width: fit-content;
+	transition: background .2s ease;
 }
 }
 
@@ -275,116 +281,115 @@ game-tag {
 	--color-light-fade: #A4A4A4;
 	--color-secondary: #000;
 }
-.search input[type="search"] {
-  background: #000;
-  color: var(--color-secondary);
-  box-sizing: border-box;
-  width: 100%;
-  padding: 12px 16px 12px 44px;
-  outline: none;
-  border: 2px solid transparent;
-  border-radius: 8px;
-  font-size: 1rem;
-  transition: all .3s ease;
+.search input[type = "search"] {
+	background: #000;
+	color: var(--color-secondary);
+	box-sizing: border-box;
+	width: 100%;
+	padding: 12px 16px 12px 44px;
+	outline: none;
+	border: 2px solid transparent;
+	border-radius: 8px;
+	font-size: 1rem;
+	transition: all .3s ease;
 }
 .hero {
-  &.hero-small {
-    background: #000;
-    padding: clamp(16px,3vw,18px) 0;
-    margin-bottom: 0;
-  }
+	&.hero-small {
+		background: #000;
+		padding: clamp(16px, 3vw, 18px) 0;
+		margin-bottom: 0;
+	}
 }
 .page-container {
-  & .page-title {
-    & .page-description {
-      & p {
-        margin: 0;
-        color: #fff;
-        line-height: 1.5;
-      }
-    }
-  }
+	& .page-title {
+		& .page-description {
+			& p {
+				margin: 0;
+				color: #fff;
+				line-height: 1.5;
+			}
+		}
+	}
 }
 .category-page-container {
-  & .section-card {
-    background: #000;
-    border-radius: var(--border-radius);
-    color: var(--color-light);
-    padding: 15px 15px 20px;
-  }
+	& .section-card {
+		background: #000;
+		border-radius: var(--border-radius);
+		color: var(--color-light);
+		padding: 15px 15px 20px;
+	}
 }
 .search {
-  & input[type="search"] {
-    &::placeholder {
-      color: #fff;
-      opacity: .6;
-    }
-  }
+	& input[type = "search"] {
+		&::placeholder {
+			color: #fff;
+			opacity: .6;
+		}
+	}
 }
 .footer {
-  background: #000;
-  color: var(--color-light);
-  padding: clamp(40px,6vw,60px) 0 0;
+	background: #000;
+	color: var(--color-light);
+	padding: clamp(40px, 6vw, 60px) 0 0;
 }
 .article-footer-text {
-  font-size: 1rem;
-  color: #fff;
-  margin: 0 auto 1.5rem;
-  line-height: 1.6;
-  max-width: 400px;
+	font-size: 1rem;
+	color: #fff;
+	margin: 0 auto 1.5rem;
+	line-height: 1.6;
+	max-width: 400px;
 }
 .article-page-container {
-  & .article-body {
-    font-size: 1rem;
-    line-height: 1.7;
-    color: #fff;
-  }
+	& .article-body {
+		font-size: 1rem;
+		line-height: 1.7;
+		color: #fff;
+	}
 }
 .article-footer-title {
-  font-size: clamp(1.25rem,3vw,1.5rem);
-  font-weight: var(--bold);
-  margin: 0 0 .5rem;
-  color: #fff;
+	font-size: clamp(1.25rem, 3vw, 1.5rem);
+	font-weight: var(--bold);
+	margin: 0 0 .5rem;
+	color: #fff;
 }
 .youtube-accordion {
-  & .youtube-accordion-header {
-    color: #fff;
-    cursor: pointer;
-    font-weight: var(--bold);
-    font-size: inherit;
-  }
+	& .youtube-accordion-header {
+		color: #fff;
+		cursor: pointer;
+		font-weight: var(--bold);
+		font-size: inherit;
+	}
 }
 }
 
 @-moz-document url-prefix("https://aternos.gmbh") {
 body {
-  background-color: #000;
-  color: #fff;
+	background-color: #000;
+	color: #fff;
 }
 .title {
-  font-size: 48px;
-  margin: 0 0 30px;
-  color: #17ab17;
-  width: 100%;
-  font-weight: bold;
+	font-size: 48px;
+	margin: 0 0 30px;
+	color: #17ab17;
+	width: 100%;
+	font-weight: bold;
 }
 .subtitle {
-  font-weight: 700;
-  margin: -35px 0 15px 0px;
-  color: #19ab19;
-  font-size: 24px;
+	font-weight: 700;
+	margin: -35px 0 15px 0px;
+	color: #19ab19;
+	font-size: 24px;
 }
 .main h3 {
-  margin: 18px 0 8px;
-    margin-top: 18px;
-  font-weight: bold;
-  font-size: 24px;
-  color: #17ab17;
+	margin: 18px 0 8px;
+	margin-top: 18px;
+	font-weight: bold;
+	font-size: 24px;
+	color: #17ab17;
 }
 .icon-number .number {
-  font-size: 64px;
-  font-weight: bold;
-  color: #17ab17;
+	font-size: 64px;
+	font-weight: bold;
+	color: #17ab17;
 }
 }
-
